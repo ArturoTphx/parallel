@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Parallel</string>
+    <string name="data_amount">Amount of data: %1$.2f</string>
+    <string name="data_column">Data</string>
+    <string name="mono_thread_column">Mono</string>
+    <string name="multi_thread_column">Multi</string>
+    <string name="results_column">Results</string>
+    <string name="run">Run</string>
+    <string name="length_info">There are %d notes in the list</string>
+
+    <string name="mono">Mono</string>
+    <string name="multi">Multi</string>
+
+    <string name="notes_destination">Notes</string>
+    <string name="benchmarks_destination">Benchmarks</string>
+    <string name="settings_destination">Settings</string>
+    <string name="reset_all">Reset all</string>
+    <string name="show_cards">Show note cards</string>
+    <string name="note_cards_message">Note cards disabled, go to settings to enable them</string>
+</resources>
